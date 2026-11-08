@@ -1,6 +1,7 @@
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/30a8ecf6-3cf6-4e1c-bc1d-73b5ecc8f5be" />
-                     · srinivasraovenna1@gmail.com
-About
+                       · srinivasraovenna1@gmail.com
+                       
+ About
 
 I write autonomy stacks for robots that make decisions in unpredictable places: warehouses, farms, construction sites. That means GPU-accelerated perception, 3D SLAM and localization, and full navigation stacks on ROS 2 and Nav2. Lately I've been working the other end to.
 Projects, writing and the full work history live on- 
