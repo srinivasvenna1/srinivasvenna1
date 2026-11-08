@@ -1,19 +1,19 @@
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/30a8ecf6-3cf6-4e1c-bc1d-73b5ecc8f5be" />
                      · srinivasraovenna1@gmail.com
 About
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I write autonomy stacks for robots that make decisions in unpredictable places: warehouses, farms, construction sites. That means GPU-accelerated perception, 3D SLAM and localization, and full navigation stacks on ROS 2 and Nav2. Lately I've been working the other end to.
 Projects, writing and the full work history live on- 
 
 
 
 Open source
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Nav2 · contributor, ROS 2 Navigation stack
 PlotJuggler · contributor, ROS time-series visualization
 
 Stack
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
 <img width="140" height="20" alt="image" src="https://github.com/user-attachments/assets/8c6fc74d-2af7-47e7-b5c1-ef074fe82c65" />
 <img width="131" height="20" alt="image" src="https://github.com/user-attachments/assets/9222289e-657f-4a4d-bc8d-b07b8a00f81b" />
 <img width="49" height="20" alt="image" src="https://github.com/user-attachments/assets/a26c0004-3075-499d-a72b-5cef67e171f8" />
